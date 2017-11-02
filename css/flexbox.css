@@ -33,9 +33,19 @@
     flex: 1;
   }
 
+  .row-button .secondary {
+    flex: 1.4;
+  }
+
   .row-button .button {
     margin-top: auto;
     align-self: flex-start;
+  }
+
+  body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
   }
 
 }

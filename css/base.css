@@ -124,6 +124,11 @@ img {
 	.tagline {
 		font-size: 1.4em;
 	}
+	.footer-inner{
+		width: 80%;
+		margin: 0 auto;
+		max-width: 1150px;
+	}
 }
 @media (min-width: 1025px) {
 	.main-header,
